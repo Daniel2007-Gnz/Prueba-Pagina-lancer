@@ -19,4 +19,4 @@ git branch
 ## 7 Concetar el proyecto con GitHub
 git remote add origin https://github.com/Daniel2007-Gnz/Prueba-Pagina-lancer.git
 ## 8 Evidencia 
-![Evidencia de ejecución](evidencia)
+![Evidencia de ejecución](evidencia.png)
